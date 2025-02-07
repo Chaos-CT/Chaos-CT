@@ -1,5 +1,5 @@
 ![gitartwork](gitartwork.svg)
-## Full Stack Web & Blockchain Engineer 👋
+## Full Stack & Blockchain Engineer 👋
 <p>
 Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. 
 I am always trying harder to find new and more effective ways to solve problems.
