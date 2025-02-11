@@ -1,19 +1,23 @@
 ![gitartwork](gitartwork.svg)
-## Full Stack & Blockchain Engineer 👋
-<p>
-Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. 
-I am always trying harder to find new and more effective ways to solve problems.
-</p>
-I love working through all the stages of development and I place a lot of importance on DRY(Don't Repeat Yourself), well-documented, and easy to-maintain and scalable code.
-Communication with the client is a crucial part of web development and I make it a priority to be responsive as well as report regularly on the development process.
+🚀 **Blockchain & Bot Developer | Smart Contracts | DeFi | Trading Bots**  
+Experienced Blockchain & Bot Developer with a proven track record in building secure smart contracts, DeFi protocols, and advanced trading bots. I specialize in Ethereum, Binance Smart Chain, Solana, and Bitcoin (Ordinals, BRC-20), delivering robust decentralized solutions tailored to your business needs.
 
-## ❤ My Highlight Skills
+🔹 **What I Offer:**  
+✅ **Smart Contracts & DeFi:** Secure, gas-optimized contracts (ERC-20, ERC-721, ERC-1155, BRC-20)  
+✅ **Web3 Integration:** Seamless dApp connections using Wagmi, Ethers.js, Web3.js  
+✅ **Trading Bots & Arbitrage:** MEV, sniper, and high-frequency trading strategies  
+✅ **Automation & AI Bots:** Telegram bots, Discord bots, data scraping, automation tools  
+✅ **Security & Audits:** Mitigating reentrancy, flash loan attacks, and smart contract vulnerabilities
 
-🔹  Languages: C, C++, C#, Python, JavaScript, TypeScript <br>
-🔹  Frameworks & Libraries: React, Vue, Next, Angluar, Node, Nest, Django, ASP.NET <br>
-🔹  Databases: MySQL, MongoDB, PostgreSQL, MsSQL <br>
-🔹  Tools: Git, AWS, Jira, Docker, Azure <br>
+🛠️ **Tech Stack:**  
+🟠 **Languages & Frameworks:** Solidity, Rust, Vyper, Hardhat, Foundry  
+🟠 **Web3 Tools:** Web3.js, Ethers.js, Wagmi, Next.js, React  
+🟠 **Backend & Databases:** Node.js, Python, Prisma, PostgreSQL, Redis  
+🟠 **Specialties:** Smart contract audits, gas optimization, on-chain data analysis
 
+I deliver clean, efficient, and well-documented code, always staying ahead with the latest blockchain trends. Whether you need custom smart contracts, DeFi solutions, or high-performance trading bots—let’s turn your ideas into reality.
+
+✉️ **Ready to start? Let’s discuss your project today!**
 
 ## <h3 align="center"> Languages and Tools </h3>
 
